@@ -1,0 +1,20 @@
+USER@DESKTOP-RQQTCRF MINGW64 ~
+$ wc -c Desktop/Bash/Owner.sh | awk '{print $1}'
+125
+
+USER@DESKTOP-RQQTCRF MINGW64 ~
+$ wc -c Desktop/Bash/loops.sh | awk '{print $1}'
+140
+
+USER@DESKTOP-RQQTCRF MINGW64 ~
+$ wc -c Desktop/Bash/Demo.sh | awk '{print $1}'
+wc: Desktop/Bash/Demo.sh: No such file or directory
+
+USER@DESKTOP-RQQTCRF MINGW64 ~
+$ wc -c Desktop/Bash/new.sh | awk '{print $1}'
+133
+
+USER@DESKTOP-RQQTCRF MINGW64 ~
+$ wc -c Desktop/Bash/add.sh | awk '{print $1}'
+422
+

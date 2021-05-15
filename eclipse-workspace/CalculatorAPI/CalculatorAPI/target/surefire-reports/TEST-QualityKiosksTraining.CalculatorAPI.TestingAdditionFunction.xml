@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="QualityKiosksTraining.CalculatorAPI.TestingAdditionFunction" time="1.17" tests="0" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\QualityKioskTraining\Projects\CalculatorAPI\CalculatorAPI\target\test-classes;D:\QualityKioskTraining\Projects\CalculatorAPI\CalculatorAPI\target\classes;D:\MavenRepo\org\testng\testng\7.4.0\testng-7.4.0.jar;D:\MavenRepo\com\beust\jcommander\1.78\jcommander-1.78.jar;D:\MavenRepo\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="D:\openjdk-11_windows-x64_bin\jdk-11\bin"/>
+    <property name="sun.java.command" value="C:\Users\MAGICU~1\AppData\Local\Temp\surefire12606813660816340275\surefirebooter12982855572290944247.jar C:\Users\magicuser\AppData\Local\Temp\surefire12606813660816340275 2021-04-17T12-27-46_889-jvmRun1 surefire79538512108084961tmp surefire_0136938287966145450tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\QualityKioskTraining\Projects\CalculatorAPI\CalculatorAPI\target\test-classes;D:\QualityKioskTraining\Projects\CalculatorAPI\CalculatorAPI\target\classes;D:\MavenRepo\org\testng\testng\7.4.0\testng-7.4.0.jar;D:\MavenRepo\com\beust\jcommander\1.78\jcommander-1.78.jar;D:\MavenRepo\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\magicuser"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2018-09-25"/>
+    <property name="java.home" value="D:\openjdk-11_windows-x64_bin\jdk-11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\QualityKioskTraining\Projects\CalculatorAPI\CalculatorAPI"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\MAGICU~1\AppData\Local\Temp\surefire12606813660816340275\surefirebooter12982855572290944247.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11+28"/>
+    <property name="user.name" value="magicuser"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="D:\MavenRepo"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\MAGICU~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="11"/>
+    <property name="user.dir" value="D:\QualityKioskTraining\Projects\CalculatorAPI\CalculatorAPI"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\openjdk-11_windows-x64_bin\jdk-11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\openjdk-11_windows-x64_bin\jdk-11\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\magicuser\AppData\Local\Programs\Python\Python39\Scripts;D:\Drivers;C:\Program Files\Git\cmd;D:\JavaSeleniumBatch;C:\Users\magicuser\AppData\Local\Programs\Python\Python39;D:\QualityKioskTraining\apache-maven-3.8.1\bin;C:\Users\magicuser\AppData\Local\Microsoft\WindowsApps;C:\Users\magicuser\AppData\Roaming\npm;C:\Users\magicuser\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm 2020.3.3\bin;;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11+28"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+</testsuite>

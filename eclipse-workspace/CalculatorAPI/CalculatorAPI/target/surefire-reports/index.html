@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-Testing_Calculator_API" class="navigator-link">
+              <span class="suite-name border-passed">Testing Calculator API</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-Testing_Calculator_API" class="navigator-link ">
+                    <span>C:\Users\USER\eclipse-workspace\CalculatorAPI\CalculatorAPI\TestingCalculatorAPI.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-Testing_Calculator_API" class="navigator-link ">
+                    <span class="test-stats">4 tests</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-Testing_Calculator_API" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-Testing_Calculator_API" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-Testing_Calculator_API" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-Testing_Calculator_API" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-Testing_Calculator_API" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">11 methods,   11 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Testing_Calculator_API" class="hide-methods passed suite-Testing_Calculator_API"> (hide)</a> <!-- hide-methods passed suite-Testing_Calculator_API -->
+                      <a href="#" panel-name="suite-Testing_Calculator_API" class="show-methods passed suite-Testing_Calculator_API"> (show)</a> <!-- show-methods passed suite-Testing_Calculator_API -->
+                    </span>
+                    <div class="method-list-content passed suite-Testing_Calculator_API">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Testing_Calculator_API" title="QualityKiosksTraining.CalculatorAPI.AdditionTestCases" class="method navigator-link" hash-for-method="TestAdditionWithOnePositiveOneNegative">TestAdditionWithOnePositiveOneNegative</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Testing_Calculator_API" title="QualityKiosksTraining.CalculatorAPI.AdditionTestCases" class="method navigator-link" hash-for-method="TestAdditionWithPositiveNumbers">TestAdditionWithPositiveNumbers</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Testing_Calculator_API" title="QualityKiosksTraining.CalculatorAPI.AdditionTestCases" class="method navigator-link" hash-for-method="TestAdditionWithZeroNumbers">TestAdditionWithZeroNumbers</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Testing_Calculator_API" title="QualityKiosksTraining.CalculatorAPI.TestDivisionFunctionality" class="method navigator-link" hash-for-method="TestDivisionWithNegativeValues">TestDivisionWithNegativeValues</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Testing_Calculator_API" title="QualityKiosksTraining.CalculatorAPI.TestDivisionFunctionality" class="method navigator-link" hash-for-method="TestDivisionWithPositiveValues">TestDivisionWithPositiveValues</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Testing_Calculator_API" title="QualityKiosksTraining.CalculatorAPI.TestMultiplication" class="method navigator-link" hash-for-method="TestMultiplicationWithPositiveValues(10, 20, 200)">TestMultiplicationWithPositiveValues(10, 20, 200)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Testing_Calculator_API" title="QualityKiosksTraining.CalculatorAPI.TestMultiplication" class="method navigator-link" hash-for-method="TestMultiplicationWithPositiveValues(1000, 2000, 2000000)">TestMultiplicationWithPositiveValues(1000, 2000, 2000000)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Testing_Calculator_API" title="QualityKiosksTraining.CalculatorAPI.TestMultiplication" class="method navigator-link" hash-for-method="TestMultiplicationWithPositiveValues(100, 200, 20000)">TestMultiplicationWithPositiveValues(100, 200, 20000)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Testing_Calculator_API" title="QualityKiosksTraining.CalculatorAPI.TestMultiplication" class="method navigator-link" hash-for-method="TestMultiplicationWithPositiveValues(1, 2, 2)">TestMultiplicationWithPositiveValues(1, 2, 2)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Testing_Calculator_API" title="QualityKiosksTraining.CalculatorAPI.TestingSubtractionTestCases" class="method navigator-link" hash-for-method="TestSubtractionWith1Positive1NegativeNumbers">TestSubtractionWith1Positive1NegativeNumbers</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Testing_Calculator_API" title="QualityKiosksTraining.CalculatorAPI.TestingSubtractionTestCases" class="method navigator-link" hash-for-method="TestSubtractionWithPositiveNumbers">TestSubtractionWithPositiveNumbers</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Testing_Calculator_API -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Testing_Calculator_API" class="panel Testing_Calculator_API">
+          <div class="suite-Testing_Calculator_API-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">QualityKiosksTraining.CalculatorAPI.TestMultiplication</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="TestMultiplicationWithPositiveValues(10, 20, 200)">
+                  </a> <!-- TestMultiplicationWithPositiveValues(10, 20, 200) -->
+                  <span class="method-name">TestMultiplicationWithPositiveValues</span>
+                  <span class="parameters">(10, 20, 200)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="TestMultiplicationWithPositiveValues(1000, 2000, 2000000)">
+                  </a> <!-- TestMultiplicationWithPositiveValues(1000, 2000, 2000000) -->
+                  <span class="method-name">TestMultiplicationWithPositiveValues</span>
+                  <span class="parameters">(1000, 2000, 2000000)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="TestMultiplicationWithPositiveValues(100, 200, 20000)">
+                  </a> <!-- TestMultiplicationWithPositiveValues(100, 200, 20000) -->
+                  <span class="method-name">TestMultiplicationWithPositiveValues</span>
+                  <span class="parameters">(100, 200, 20000)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="TestMultiplicationWithPositiveValues(1, 2, 2)">
+                  </a> <!-- TestMultiplicationWithPositiveValues(1, 2, 2) -->
+                  <span class="method-name">TestMultiplicationWithPositiveValues</span>
+                  <span class="parameters">(1, 2, 2)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Testing_Calculator_API-class-passed -->
+          <div class="suite-Testing_Calculator_API-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">QualityKiosksTraining.CalculatorAPI.TestingSubtractionTestCases</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="TestSubtractionWith1Positive1NegativeNumbers">
+                  </a> <!-- TestSubtractionWith1Positive1NegativeNumbers -->
+                  <span class="method-name">TestSubtractionWith1Positive1NegativeNumbers</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="TestSubtractionWithPositiveNumbers">
+                  </a> <!-- TestSubtractionWithPositiveNumbers -->
+                  <span class="method-name">TestSubtractionWithPositiveNumbers</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Testing_Calculator_API-class-passed -->
+          <div class="suite-Testing_Calculator_API-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">QualityKiosksTraining.CalculatorAPI.TestDivisionFunctionality</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="TestDivisionWithNegativeValues">
+                  </a> <!-- TestDivisionWithNegativeValues -->
+                  <span class="method-name">TestDivisionWithNegativeValues</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="TestDivisionWithPositiveValues">
+                  </a> <!-- TestDivisionWithPositiveValues -->
+                  <span class="method-name">TestDivisionWithPositiveValues</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Testing_Calculator_API-class-passed -->
+          <div class="suite-Testing_Calculator_API-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">QualityKiosksTraining.CalculatorAPI.AdditionTestCases</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="TestAdditionWithOnePositiveOneNegative">
+                  </a> <!-- TestAdditionWithOnePositiveOneNegative -->
+                  <span class="method-name">TestAdditionWithOnePositiveOneNegative</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="TestAdditionWithPositiveNumbers">
+                  </a> <!-- TestAdditionWithPositiveNumbers -->
+                  <span class="method-name">TestAdditionWithPositiveNumbers</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="TestAdditionWithZeroNumbers">
+                  </a> <!-- TestAdditionWithZeroNumbers -->
+                  <span class="method-name">TestAdditionWithZeroNumbers</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Testing_Calculator_API-class-passed -->
+        </div> <!-- panel Testing_Calculator_API -->
+        <div panel-name="test-xml-Testing_Calculator_API" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\USER\eclipse-workspace\CalculatorAPI\CalculatorAPI\TestingCalculatorAPI.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;Testing Calculator API&quot; verbose=&quot;0&quot;&gt;
+  &lt;parameter name=&quot;RequestID&quot; value=&quot;Req100&quot;/&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Testing Addition functionality&quot; verbose=&quot;0&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;QualityKiosksTraining.CalculatorAPI.AdditionTestCases&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Testing Addition functionality --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Testing Subtraction functionality&quot; verbose=&quot;0&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;QualityKiosksTraining.CalculatorAPI.TestingSubtractionTestCases&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Testing Subtraction functionality --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Testing Multiplication functionality&quot; verbose=&quot;0&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;QualityKiosksTraining.CalculatorAPI.TestMultiplication&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Testing Multiplication functionality --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Testing Division functionality&quot; verbose=&quot;0&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;QualityKiosksTraining.CalculatorAPI.TestDivisionFunctionality&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Testing Division functionality --&gt;
+&lt;/suite&gt; &lt;!-- Testing Calculator API --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Testing_Calculator_API" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Testing Calculator API</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Testing Addition functionality (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">Testing Subtraction functionality (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">Testing Multiplication functionality (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">Testing Division functionality (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Testing_Calculator_API" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Testing Calculator API</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Testing_Calculator_API" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Testing Calculator API</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Testing_Calculator_API');
+function tableData_Testing_Calculator_API() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(11);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'TestAdditionWithPositiveNumbers')
+data.setCell(0, 2, 'QualityKiosksTraining.CalculatorAPI.AdditionTestCases')
+data.setCell(0, 3, 9);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'TestAdditionWithZeroNumbers')
+data.setCell(1, 2, 'QualityKiosksTraining.CalculatorAPI.AdditionTestCases')
+data.setCell(1, 3, 1);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'TestAdditionWithOnePositiveOneNegative')
+data.setCell(2, 2, 'QualityKiosksTraining.CalculatorAPI.AdditionTestCases')
+data.setCell(2, 3, 1);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'TestSubtractionWithPositiveNumbers')
+data.setCell(3, 2, 'QualityKiosksTraining.CalculatorAPI.TestingSubtractionTestCases')
+data.setCell(3, 3, 1);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'TestMultiplicationWithPositiveValues')
+data.setCell(4, 2, 'QualityKiosksTraining.CalculatorAPI.TestMultiplication')
+data.setCell(4, 3, 1);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'TestMultiplicationWithPositiveValues')
+data.setCell(5, 2, 'QualityKiosksTraining.CalculatorAPI.TestMultiplication')
+data.setCell(5, 3, 1);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'TestDivisionWithNegativeValues')
+data.setCell(6, 2, 'QualityKiosksTraining.CalculatorAPI.TestDivisionFunctionality')
+data.setCell(6, 3, 1);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'TestSubtractionWith1Positive1NegativeNumbers')
+data.setCell(7, 2, 'QualityKiosksTraining.CalculatorAPI.TestingSubtractionTestCases')
+data.setCell(7, 3, 0);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'TestMultiplicationWithPositiveValues')
+data.setCell(8, 2, 'QualityKiosksTraining.CalculatorAPI.TestMultiplication')
+data.setCell(8, 3, 0);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'TestMultiplicationWithPositiveValues')
+data.setCell(9, 2, 'QualityKiosksTraining.CalculatorAPI.TestMultiplication')
+data.setCell(9, 3, 0);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'TestDivisionWithPositiveValues')
+data.setCell(10, 2, 'QualityKiosksTraining.CalculatorAPI.TestDivisionFunctionality')
+data.setCell(10, 3, 0);
+window.suiteTableData['Testing_Calculator_API']= { tableData: data, tableDiv: 'times-div-Testing_Calculator_API'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 15 ms</span>
+              <div id="times-div-Testing_Calculator_API">
+              </div> <!-- times-div-Testing_Calculator_API -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Testing_Calculator_API" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Testing Calculator API</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Testing_Calculator_API" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Testing_Calculator_API" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">QualityKiosksTraining.CalculatorAPI.TestMultiplication</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">CreateResultFolder(Req100)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">QualityKiosksTraining.CalculatorAPI.AdditionTestCases</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">Init</span>
+                <span class="method-start">44 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">ReinitialiseResultVar</span>
+                <span class="method-start">61 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TestAdditionWithPositiveNumbers</span>
+                <span class="method-start">63 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method before">
+                <span class="method-name">ReinitialiseResultVar</span>
+                <span class="method-start">77 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TestAdditionWithOnePositiveOneNegative</span>
+                <span class="method-start">78 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method before">
+                <span class="method-name">ReinitialiseResultVar</span>
+                <span class="method-start">83 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TestAdditionWithZeroNumbers</span>
+                <span class="method-start">87 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">Teardown</span>
+                <span class="method-start">91 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">QualityKiosksTraining.CalculatorAPI.TestingSubtractionTestCases</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">Init</span>
+                <span class="method-start">234 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">ReInitialise</span>
+                <span class="method-start">234 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TestSubtractionWithPositiveNumbers</span>
+                <span class="method-start">235 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method before">
+                <span class="method-name">ReInitialise</span>
+                <span class="method-start">238 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TestSubtractionWith1Positive1NegativeNumbers</span>
+                <span class="method-start">239 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">Teardown</span>
+                <span class="method-start">240 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">QualityKiosksTraining.CalculatorAPI.TestMultiplication</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">Init</span>
+                <span class="method-start">496 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">ReinitialisingResult</span>
+                <span class="method-start">508 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TestMultiplicationWithPositiveValues(1, 2, 2)</span>
+                <span class="method-start">509 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method before">
+                <span class="method-name">ReinitialisingResult</span>
+                <span class="method-start">512 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TestMultiplicationWithPositiveValues(10, 20, 200)</span>
+                <span class="method-start">517 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method before">
+                <span class="method-name">ReinitialisingResult</span>
+                <span class="method-start">519 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TestMultiplicationWithPositiveValues(1000, 2000, 2000000)</span>
+                <span class="method-start">520 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method before">
+                <span class="method-name">ReinitialisingResult</span>
+                <span class="method-start">522 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TestMultiplicationWithPositiveValues(100, 200, 20000)</span>
+                <span class="method-start">523 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">QualityKiosksTraining.CalculatorAPI.TestDivisionFunctionality</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">CreateObj</span>
+                <span class="method-start">559 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">InitialiseRes</span>
+                <span class="method-start">562 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TestDivisionWithPositiveValues</span>
+                <span class="method-start">563 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">AfterMethod</span>
+                <span class="method-start">564 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">InitialiseRes</span>
+                <span class="method-start">566 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TestDivisionWithNegativeValues</span>
+                <span class="method-start">567 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">AfterMethod</span>
+                <span class="method-start">568 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">ReleaseObj</span>
+                <span class="method-start">569 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">QualityKiosksTraining.CalculatorAPI.TestMultiplication</div> <!-- chronological-class-name -->
+              <div class="configuration-suite after">
+                <span class="method-name">CopyResultFile(Req100)</span>
+                <span class="method-start">597 ms</span>
+              </div> <!-- configuration-suite after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>
