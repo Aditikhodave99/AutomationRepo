@@ -1,0 +1,13 @@
+package QualityKiosksTraining.CalculatorAPI;
+
+public class TestDivisionFunctionality 
+{
+
+	Calculator Cal;
+	public void CreateObj()
+	{
+		Cal=new Calculator();
+	}
+	
+	
+}

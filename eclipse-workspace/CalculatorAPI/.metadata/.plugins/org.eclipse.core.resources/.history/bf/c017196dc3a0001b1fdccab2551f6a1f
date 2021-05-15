@@ -1,0 +1,14 @@
+package QualityKiosksTraining.CalculatorAPI;
+import org.testng.annotations.*;
+public class TestMultiplication 
+{
+	Calculator Cal;
+	
+	@BeforeClass
+	public void Init()
+	{
+		
+	}
+
+
+}

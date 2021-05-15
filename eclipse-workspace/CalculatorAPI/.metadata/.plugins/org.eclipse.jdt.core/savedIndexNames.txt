@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+D:\QualityKioskTraining\Projects\CalculatorAPI\.metadata\.plugins\org.eclipse.jdt.core
+2572356337.index
+1790346848.index
+1784289736.index
+1108714898.index
+2001892131.index
+2974340048.index
+2438903053.index
+1673148175.index
+2388349368.index

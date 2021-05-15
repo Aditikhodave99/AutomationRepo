@@ -1,0 +1,22 @@
+package QualityKiosksTraining.CalculatorAPI;
+
+import org.testng.annotations.Test;
+import org.testng.Assert;
+public class AdditionTestCases 
+{
+
+	@Test
+	public void TestAdditionWithPositiveNumbers()
+	{
+		Calculator Obj=new Calculator();
+		int Result=Obj.Addition(10,20);
+		Assert.assertEquals(Result, 30,"Addition does not work with positive numbers");
+	}
+	
+	public void TestAdditionWithNegativeNumbers()
+	{
+		
+	}
+
+
+}

@@ -1,0 +1,21 @@
+package QualityKiosksTraining.CalculatorAPI;
+
+import org.testng.annotations.BeforeClass;
+
+public class TestDivisionFunctionality 
+{
+
+	Calculator Cal;
+	@BeforeClass
+	public void CreateObj()
+	{
+		Cal=new Calculator();
+	}
+	
+	public void TestDivisionWithPositiveValues()
+	{
+		
+		
+	}
+	
+}

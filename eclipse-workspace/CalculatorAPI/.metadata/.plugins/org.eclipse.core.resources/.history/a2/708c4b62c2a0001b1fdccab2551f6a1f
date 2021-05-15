@@ -1,0 +1,31 @@
+package QualityKiosksTraining.CalculatorAPI;
+
+import org.testng.Assert;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class TestingSubtractionTestCases 
+{
+	Calculator Cal;
+	@BeforeClass
+	public void Init()
+	{
+		Cal=new Calculator();
+		
+	}
+	
+	@Test(priority=1)
+	public void TestSubtractionWithPositiveNumbers()
+	{
+		
+		int Result=Cal.Subtraction(50, 10);
+		Assert.assertEquals(Result, 40,"Subtraction does not work with Positive Numbers");
+	}
+	
+	@AfterClass
+	public void Teardown()
+	{
+		Cal=null;
+	}
+}

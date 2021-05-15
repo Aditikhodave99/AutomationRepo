@@ -1,0 +1,14 @@
+package QualityKiosksTraining.CalculatorAPI;
+
+public class TestingAdditionFunction {
+
+	public static void main(String[] args) 
+	{
+		// TODO Auto-generated method stub
+
+		Calculator Obj=new Calculator();
+		int Res=Obj.Addition(10, 20);
+		
+	}
+
+}

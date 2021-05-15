@@ -1,0 +1,32 @@
+package QualityKiosksTraining.CalculatorAPI;
+
+import org.testng.annotations.Test;
+import org.testng.Assert;
+public class AdditionTestCases 
+{
+
+	@Test(priority=1)
+	public void TestAdditionWithPositiveNumbers()
+	{
+		Calculator Obj=new Calculator();
+		int Result=Obj.Addition(10,20);
+		Assert.assertEquals(Result, 30,"Addition does not work with positive numbers");
+	}
+	@Test
+	public void TestAdditionWithZeroNumbers()
+	{	
+		Calculator Obj=new Calculator();
+		int Result=Obj.Addition(0, 0);
+		Assert.assertEquals(Result, 0,"Addition does not work with zero numbers");
+	}
+
+	@Test(priority=2)
+	public void TestAdditionWithOnePositiveOneNegative()
+	{
+		Calculator Obj=new Calculator();
+		int Result=Obj.Addition(10, -8);
+		Assert.assertEquals(Result, 2,"Addition does not work with 1 Positive and 1 Negative numbers");
+	}
+	
+	
+}

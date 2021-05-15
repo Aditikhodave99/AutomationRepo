@@ -1,0 +1,10 @@
+package QualityKiosksTraining.CalculatorAPI;
+
+public class TestMultiplication 
+{
+	Calculator Cal;
+	
+
+
+
+}

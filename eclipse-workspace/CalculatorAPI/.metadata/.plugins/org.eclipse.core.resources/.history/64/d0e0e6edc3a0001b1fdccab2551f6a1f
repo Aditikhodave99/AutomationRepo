@@ -1,0 +1,39 @@
+package QualityKiosksTraining.CalculatorAPI;
+import org.testng.Assert;
+import org.testng.annotations.*;
+public class TestMultiplication 
+{
+	Calculator Cal;
+	int Result;
+	@BeforeClass
+	public void Init()
+	{
+		
+		Cal=new Calculator();	
+	
+	}
+
+	@BeforeMethod
+	public void ReinitialisingResult()
+	{
+		Result=0;
+		
+	}
+	@Test(priority=1)
+	public void TestMultiplicationWithPositiveValues()
+	{
+		
+		Result=Cal.Multiplication(10, 20);
+		Assert.assertEquals(Result, 300,"Multiplication does not work with positive numbers");
+	}
+
+	
+	@Test(priority=2)
+	public void TestMultiplicationWithPositiveValues()
+	{
+		
+		Result=Cal.Multiplication(10, 20);
+		Assert.assertEquals(Result, 300,"Multiplication does not work with positive numbers");
+	}
+	
+}

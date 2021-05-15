@@ -1,0 +1,44 @@
+package QualityKiosksTraining.CalculatorAPI;
+
+import org.testng.Assert;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
+import org.testng.annotations.AfterMethod;
+public class TestDivisionFunctionality 
+{
+
+	Calculator Cal;
+	int Res;
+	@BeforeClass
+	public void CreateObj()
+	{
+		Cal=new Calculator();
+	}
+	
+	@BeforeMethod
+	public void InitialiseRes()
+	{
+		Res=0;
+	}
+	
+	@Test
+	public void TestDivisionWithPositiveValues()
+	{
+		Res=Cal.Division(100, 2);
+		Assert.assertEquals(Res, 50,"Division is not working with Positive values");
+		
+	}
+	
+	@AfterMethod
+	public void AfterMethod()
+	{
+		System.out.println("In After Method");
+	}
+	@AfterClass
+	public void ReleaseObj()
+	{
+		Cal=null;
+	}
+}

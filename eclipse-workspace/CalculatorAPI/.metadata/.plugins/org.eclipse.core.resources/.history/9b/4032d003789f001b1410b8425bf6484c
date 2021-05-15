@@ -1,0 +1,12 @@
+package QualityKiosksTraining.CalculatorAPI;
+
+public class TestingSubtractionTestCases 
+{
+	Calculator Cal;
+	public void Init()
+	{
+		Cal=new Calculator();
+		
+	}
+	
+}

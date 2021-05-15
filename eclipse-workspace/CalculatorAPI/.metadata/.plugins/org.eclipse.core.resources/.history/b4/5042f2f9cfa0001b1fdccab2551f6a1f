@@ -1,0 +1,12 @@
+package QualityKiosksTraining.CalculatorAPI;
+
+public class TestDivisionFunctionality 
+{
+
+	public void CreateObj()
+	{
+		
+	}
+	
+	
+}

@@ -1,0 +1,11 @@
+package QualityKiosksTraining.CalculatorAPI;
+
+public class Calculator 
+{
+
+	public int Addition(int num1,int num2)
+	{
+		return 0;
+	}
+
+}

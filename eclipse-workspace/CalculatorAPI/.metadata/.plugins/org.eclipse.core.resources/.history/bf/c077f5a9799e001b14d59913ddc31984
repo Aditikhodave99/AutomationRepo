@@ -1,0 +1,15 @@
+package QualityKiosksTraining.CalculatorAPI;
+
+public class AdditionTestCases 
+{
+
+
+	public void TestAdditionWithPositiveNumbers()
+	{
+		int Result=Addition(10,20);
+		
+	}
+	
+
+
+}

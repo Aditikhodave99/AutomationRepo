@@ -1,0 +1,8 @@
+<suite name="Testing Calculator API">
+	<test name="Testing Addition functionality">
+		<classes>
+			<class name="QualityKiosksTraining.CalculatorAPI.AdditionTestCases"/>
+		</classes>
+	
+	</test>
+</suite>
