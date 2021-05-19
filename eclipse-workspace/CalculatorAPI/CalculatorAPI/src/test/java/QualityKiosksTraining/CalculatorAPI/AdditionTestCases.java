@@ -27,7 +27,7 @@ public class AdditionTestCases
 	@BeforeMethod
 	public void ReinitialiseResultVar()
 	{
-		System.out.println("I am in Before Method");
+		System.out.println("I am in Before Method of JENKINS INTEGRATION");
 		Result=0;
 	}
 	@Test(priority=1,groups= {"RegressionTest"})
