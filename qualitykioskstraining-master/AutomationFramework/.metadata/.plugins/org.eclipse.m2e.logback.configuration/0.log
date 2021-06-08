@@ -1,0 +1,1004 @@
+2021-05-03 09:38:53,838 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-03 09:42:29,384 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml
+2021-05-03 09:42:30,304 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:1.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-03 09:42:30,561 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AutomationFrameworkAPI/src/main/java
+2021-05-03 09:42:30,567 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AutomationFrameworkAPI/src/test/java
+2021-05-03 09:42:31,387 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2021-05-03 09:42:32,160 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 09:42:32,161 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 09:42:32,162 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 09:42:32,163 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 09:43:41,881 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 09:43:41,881 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 09:43:41,883 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 09:43:41,883 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 09:43:42,896 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 09:43:42,896 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 09:43:42,897 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 09:43:42,897 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 09:44:20,312 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 09:44:20,313 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 09:44:20,313 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 09:44:20,314 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:04:54,643 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:04:54,643 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:04:54,646 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:04:54,646 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:04:55,658 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:04:55,659 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:04:55,660 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:04:55,660 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:07:06,239 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:07:06,240 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:07:06,244 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:07:06,245 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:08:10,900 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:1.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-03 11:08:11,224 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:08:11,225 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:08:11,228 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:08:11,228 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:08:12,496 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:08:12,496 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:08:12,497 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:08:12,498 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:08:17,355 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:1.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-03 11:08:17,690 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:08:17,691 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:08:17,696 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:08:17,696 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:08:20,117 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:1.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-03 11:08:20,351 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:08:20,351 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:08:20,352 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:08:20,353 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:09:03,180 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:09:03,180 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:09:03,182 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:09:03,182 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:09:08,462 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:09:08,463 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:09:08,466 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:09:08,467 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:09:14,976 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:09:14,976 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:09:14,977 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:09:14,977 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:09:56,257 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:09:56,257 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:09:56,258 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:09:56,258 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:11:40,031 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:11:40,031 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:11:40,032 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:11:40,033 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:12:26,529 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:12:26,529 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:12:26,531 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:12:26,531 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:13:42,686 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:13:42,686 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:13:42,688 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:13:42,688 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:14:29,972 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:14:29,972 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:14:29,973 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:14:29,973 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:14:38,386 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:14:38,386 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:14:38,388 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:14:38,388 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:15:23,403 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:15:23,404 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:15:23,405 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:15:23,406 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:16:11,024 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:16:11,024 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:16:11,026 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:16:11,027 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:16:38,374 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:16:38,375 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:16:38,376 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:16:38,376 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:16:43,929 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:16:43,930 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:16:43,932 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:16:43,933 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:18:04,803 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:18:04,803 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:18:04,805 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:18:04,805 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:18:07,744 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:18:07,745 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:18:07,749 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:18:07,749 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:25:53,636 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:25:53,637 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:25:53,638 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:25:53,638 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:27:14,020 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:27:14,020 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:27:14,045 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:27:14,046 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:35:13,415 [Worker-29: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-03 11:35:13,423 [Worker-29: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-03 11:35:23,003 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:35:23,003 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:35:23,004 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:35:23,004 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:44:39,285 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-05-03 11:46:21,171 [Worker-29: Launching AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-03 11:46:21,172 [Worker-29: Launching AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-03 11:52:55,554 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:52:55,554 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:52:55,555 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:52:55,555 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:53:04,332 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:53:04,332 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:53:04,333 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:53:04,333 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-03 11:53:27,245 [Worker-42: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-03 11:53:27,245 [Worker-42: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-03 11:53:30,988 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:53:30,988 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-03 11:53:30,991 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-03 11:53:30,991 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:09:53,138 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-04 09:19:15,536 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:19:15,537 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:19:15,541 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:19:15,541 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:19:41,580 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:19:41,580 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:19:41,581 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:19:41,582 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:20:06,624 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:20:06,625 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:20:06,628 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:20:06,628 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:20:57,252 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:20:57,252 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:20:57,254 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:20:57,254 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:21:29,888 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:21:29,889 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:21:29,890 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:21:29,891 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:21:41,632 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:21:41,633 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:21:41,634 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:21:41,634 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:22:44,072 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:22:44,072 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:22:44,073 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:22:44,074 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:24:29,031 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:24:29,031 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:24:29,035 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:24:29,035 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:24:32,263 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:24:32,263 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:24:32,264 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:24:32,264 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:26:19,063 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:26:19,063 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:26:19,065 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:26:19,065 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:27:03,737 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:27:03,738 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:27:03,739 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:27:03,739 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:27:17,974 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:27:17,975 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:27:17,976 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:27:17,977 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:27:33,765 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:27:33,765 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:27:33,767 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:27:33,767 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:27:39,264 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:27:39,264 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:27:39,265 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:27:39,265 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:31:40,596 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:31:40,597 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:31:40,598 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:31:40,598 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:31:42,043 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:31:42,043 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:31:42,047 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:31:42,047 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:31:43,076 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:31:43,076 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:31:43,077 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:31:43,077 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:31:46,120 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:31:46,120 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:31:46,122 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:31:46,122 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:32:26,399 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:32:26,399 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:32:26,401 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:32:26,401 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:34:07,096 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:34:07,096 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:34:07,098 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:34:07,098 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:34:37,765 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:34:37,765 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:34:37,767 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:34:37,767 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:37:11,526 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:37:11,527 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:37:11,528 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:37:11,529 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:38:14,302 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:38:14,302 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:38:14,303 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:38:14,304 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:38:15,404 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:38:15,404 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:38:15,405 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:38:15,405 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:38:39,056 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:38:39,056 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:38:39,058 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:38:39,058 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:39:12,390 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:2.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-04 09:39:13,176 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:39:13,176 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:39:13,180 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:39:13,180 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:39:14,066 [Worker-25: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-04 09:39:14,067 [Worker-25: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-04 09:42:05,582 [Worker-25: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-04 09:42:05,582 [Worker-25: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-04 09:54:25,701 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:54:25,701 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:54:25,701 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:54:25,701 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:55:21,354 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:55:21,355 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:55:21,356 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:55:21,356 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:55:35,169 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:55:35,169 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:55:35,170 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:55:35,170 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:55:43,524 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:55:43,525 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:55:43,525 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:55:43,526 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:55:57,670 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:55:57,670 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:55:57,672 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:55:57,672 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:58:11,913 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:58:11,914 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:58:11,915 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:58:11,915 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:58:27,753 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:58:27,753 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:58:27,754 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:58:27,755 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:58:46,420 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:58:46,420 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:58:46,421 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:58:46,421 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:58:57,237 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:3.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-04 09:58:57,642 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:58:57,642 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 09:58:57,643 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 09:58:57,644 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 09:59:01,161 [Worker-37: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-04 09:59:01,161 [Worker-37: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-04 10:05:35,743 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:05:35,744 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 10:05:35,745 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:05:35,745 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 10:10:33,022 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:10:33,027 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 10:10:33,032 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:10:33,032 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 10:41:08,989 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:41:08,989 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 10:41:08,992 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:41:08,993 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 10:41:12,103 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:41:12,103 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 10:41:12,105 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:41:12,105 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 10:41:31,306 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:41:31,306 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 10:41:31,308 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:41:31,308 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 10:42:28,675 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:42:28,675 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 10:42:28,677 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:42:28,677 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 10:42:42,832 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:42:42,833 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 10:42:42,835 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:42:42,836 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 10:42:57,847 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:4.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-04 10:42:58,507 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:42:58,508 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 10:42:58,529 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:42:58,529 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 10:43:00,448 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-04 10:43:04,754 [Worker-20: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-04 10:43:04,755 [Worker-20: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-04 10:57:32,000 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:57:32,001 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 10:57:32,003 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:57:32,003 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 10:57:35,199 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:57:35,200 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 10:57:35,201 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:57:35,201 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 10:57:47,922 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:57:47,922 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 10:57:47,924 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:57:47,924 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 10:57:59,776 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:57:59,776 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 10:57:59,777 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:57:59,777 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 10:58:52,890 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:58:52,890 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 10:58:52,892 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:58:52,892 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 10:58:54,255 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:58:54,255 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 10:58:54,255 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 10:58:54,256 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:01:24,903 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:01:24,903 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:01:24,905 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:01:24,905 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:01:35,771 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:01:35,771 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:01:35,771 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:01:35,771 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:02:39,643 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:02:39,644 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:02:39,646 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:02:39,646 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:02:54,333 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:02:54,333 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:02:54,337 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:02:54,338 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:04:37,393 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:04:37,394 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:04:37,395 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:04:37,396 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:04:41,982 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:04:41,982 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:04:41,983 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:04:41,983 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:05:12,016 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:05:12,016 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:05:12,017 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:05:12,017 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:05:18,640 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:05:18,641 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:05:18,641 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:05:18,642 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:05:35,966 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:05:35,966 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:05:35,967 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:05:35,967 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:05:37,203 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:05:37,203 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:05:37,204 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:05:37,204 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:06:07,743 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:06:07,743 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:06:07,746 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:06:07,747 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:06:19,355 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:06:19,356 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:06:19,357 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:06:19,358 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:06:55,418 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:06:55,418 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:06:55,420 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:06:55,420 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:07:00,827 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:07:00,827 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:07:00,830 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:07:00,830 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:07:41,064 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:07:41,065 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:07:41,066 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:07:41,066 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:08:00,348 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:08:00,348 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:08:00,349 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:08:00,349 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:08:28,352 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:08:28,352 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:08:28,353 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:08:28,353 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:11:12,635 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:11:12,635 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:11:12,636 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:11:12,636 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:12:57,836 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:12:57,836 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:12:57,837 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:12:57,837 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:13:05,557 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:13:05,557 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:13:05,557 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:13:05,557 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:13:09,413 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:13:09,413 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:13:09,414 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:13:09,414 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:13:14,528 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:13:14,528 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:13:14,531 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:13:14,531 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:13:25,317 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:13:25,317 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:13:25,318 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:13:25,318 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:13:37,685 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:13:37,686 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:13:37,687 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:13:37,688 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:13:43,464 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:13:43,464 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:13:43,465 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:13:43,465 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:13:49,076 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:13:49,077 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:13:49,077 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:13:49,077 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:14:09,655 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:14:09,655 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:14:09,656 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:14:09,656 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:14:37,244 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:14:37,245 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:14:37,246 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:14:37,246 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:14:40,639 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:14:40,639 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:14:40,639 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:14:40,639 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:15:06,393 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:15:06,394 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:15:06,395 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:15:06,395 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:15:17,432 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:15:17,432 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:15:17,435 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:15:17,435 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:16:27,151 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:16:27,152 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:16:27,152 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:16:27,152 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:17:51,055 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:17:51,055 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:17:51,056 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:17:51,057 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:18:14,986 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:18:14,986 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:18:14,987 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:18:14,987 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:19:40,803 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:5.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-04 11:19:41,397 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:19:41,398 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:19:41,399 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:19:41,399 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:19:49,071 [Worker-33: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-04 11:19:49,072 [Worker-33: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-04 11:30:23,352 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:30:23,352 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:30:23,353 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:30:23,353 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:30:24,372 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:30:24,372 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:30:24,373 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:30:24,373 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:30:30,144 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:30:30,144 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:30:30,145 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:30:30,145 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:30:47,084 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:30:47,084 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:30:47,085 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:30:47,085 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:31:02,222 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:6.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-04 11:31:02,608 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:31:02,610 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-04 11:31:02,615 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-04 11:31:02,616 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-04 11:31:06,726 [Worker-39: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-04 11:31:06,726 [Worker-39: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-05 09:45:13,401 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 09:45:13,406 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 09:45:13,412 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 09:45:13,412 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 09:45:31,820 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:7.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 09:45:32,344 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 09:45:32,344 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 09:45:32,346 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 09:45:32,346 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 09:45:33,325 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-05 09:45:35,660 [Worker-21: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-05 09:45:35,661 [Worker-21: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-05 10:43:35,063 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:7.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 10:43:36,318 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:43:36,320 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:43:36,328 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:43:36,329 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:43:37,636 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:43:37,637 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:43:37,639 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:43:37,639 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:43:47,594 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:7.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 10:43:48,038 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:43:48,038 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:43:48,047 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:43:48,048 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:44:34,257 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:44:34,257 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:44:34,258 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:44:34,259 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:44:40,221 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:44:40,221 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:44:40,222 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:44:40,223 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:46:54,276 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:46:54,276 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:46:54,277 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:46:54,277 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:46:56,449 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:46:56,449 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:46:56,451 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:46:56,451 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:47:28,042 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:47:28,042 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:47:28,044 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:47:28,044 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:49:24,566 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:49:24,567 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:49:24,569 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:49:24,569 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:49:42,412 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:49:42,412 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:49:42,415 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:49:42,415 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:49:46,893 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:49:46,894 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:49:46,895 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:49:46,896 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:50:41,165 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:50:41,165 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:50:41,166 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:50:41,166 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:50:45,664 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:50:45,664 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:50:45,666 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:50:45,666 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:51:03,590 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:51:03,590 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:51:03,591 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:51:03,592 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:51:11,325 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:51:11,325 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:51:11,326 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:51:11,326 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:51:19,502 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:51:19,503 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:51:19,506 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:51:19,506 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:51:25,517 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:51:25,518 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:51:25,520 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:51:25,520 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:52:25,929 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:52:25,930 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:52:25,932 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:52:25,932 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:52:45,897 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:52:45,898 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:52:45,901 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:52:45,901 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:53:04,512 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:53:04,512 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:53:04,513 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:53:04,513 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:53:38,147 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-05-05 10:53:38,575 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:7.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 10:53:38,957 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AutomationFrameworkAPI/src/main/java
+2021-05-05 10:53:38,958 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AutomationFrameworkAPI/src/test/java
+2021-05-05 10:53:39,216 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-05-05 10:53:39,547 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:53:39,548 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:53:39,550 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:53:39,550 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:54:36,918 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:7.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 10:54:37,953 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:54:37,954 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:54:37,958 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:54:37,958 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:54:39,272 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:54:39,272 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:54:39,273 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:54:39,274 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:54:45,755 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:7.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 10:54:46,062 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:54:46,063 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:54:46,067 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:54:46,067 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:54:47,468 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:7.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 10:54:47,758 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:54:47,758 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:54:47,760 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:54:47,760 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:55:02,299 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:7.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 10:55:02,603 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:55:02,603 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:55:02,604 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:55:02,605 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:55:06,288 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:7.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 10:55:06,591 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:55:06,591 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:55:06,593 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:55:06,593 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:55:18,016 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:55:18,016 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:55:18,018 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:55:18,018 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:55:32,669 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:55:32,669 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:55:32,670 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:55:32,670 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:55:34,993 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:55:34,993 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:55:34,995 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:55:34,995 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:56:13,362 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:56:13,362 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:56:13,364 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:56:13,364 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:56:15,237 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:56:15,237 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:56:15,239 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:56:15,239 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:57:24,257 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:57:24,258 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:57:24,258 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:57:24,259 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:57:53,782 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:57:53,783 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:57:53,786 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:57:53,786 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:57:55,285 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:57:55,285 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:57:55,286 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:57:55,287 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:58:13,384 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:58:13,384 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:58:13,386 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:58:13,386 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:58:20,241 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:58:20,241 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:58:20,243 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:58:20,243 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:58:42,258 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:58:42,259 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:58:42,260 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:58:42,260 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:58:43,571 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:58:43,571 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:58:43,573 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:58:43,574 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:58:54,294 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:58:54,294 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:58:54,295 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:58:54,295 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:59:06,178 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:59:06,178 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:59:06,179 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:59:06,179 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:59:29,187 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:59:29,188 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:59:29,191 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:59:29,191 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:59:37,548 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:59:37,549 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:59:37,549 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:59:37,550 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:59:48,684 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:59:48,684 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:59:48,685 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:59:48,685 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 10:59:52,985 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:59:52,985 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 10:59:52,986 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 10:59:52,986 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:00:35,966 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:00:35,966 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:00:35,967 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:00:35,968 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:00:41,433 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:00:41,434 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:00:41,434 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:00:41,435 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:01:10,828 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:01:10,828 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:01:10,830 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:01:10,830 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:02:30,937 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:02:30,937 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:02:30,941 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:02:30,941 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:02:57,874 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:02:57,874 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:02:57,875 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:02:57,875 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:03:02,011 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:03:02,011 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:03:02,013 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:03:02,013 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:03:21,079 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:03:21,080 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:03:21,081 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:03:21,081 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:03:25,596 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:03:25,596 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:03:25,599 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:03:25,599 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:04:19,389 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:04:19,390 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:04:19,391 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:04:19,391 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:04:24,229 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:04:24,230 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:04:24,231 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:04:24,232 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:05:11,466 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:05:11,466 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:05:11,467 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:05:11,467 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:05:43,690 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:05:43,690 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:05:43,691 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:05:43,691 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:06:24,747 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:06:24,747 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:06:24,751 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:06:24,751 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:06:36,424 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:06:36,424 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:06:36,425 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:06:36,425 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:06:59,182 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:06:59,182 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:06:59,184 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:06:59,184 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:07:33,992 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:07:33,993 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:07:33,993 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:07:33,993 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:07:41,481 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:07:41,481 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:07:41,486 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:07:41,486 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:07:42,606 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:07:42,606 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:07:42,607 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:07:42,607 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:08:01,381 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:08:01,382 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:08:01,382 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:08:01,382 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:10:48,148 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:10:48,149 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:10:48,150 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:10:48,150 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:12:29,160 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:8.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 11:12:29,475 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:12:29,476 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:12:29,479 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:12:29,479 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:12:33,961 [Worker-33: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-05 11:12:33,962 [Worker-33: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-05 11:19:42,262 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:19:42,263 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:19:42,263 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:19:42,263 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:19:51,017 [Worker-37: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:9.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 11:19:51,318 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:19:51,319 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:19:51,320 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:19:51,321 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:19:55,399 [Worker-37: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-05 11:19:55,399 [Worker-37: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-05 11:23:21,772 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:23:21,773 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:23:21,774 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:23:21,774 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:23:27,257 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:10.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 11:23:27,516 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:23:27,516 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:23:27,518 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:23:27,518 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:23:32,827 [Worker-38: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-05 11:23:32,828 [Worker-38: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-05 11:27:22,710 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:10.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 11:27:22,991 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:27:22,991 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:27:22,993 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:27:22,993 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:27:26,125 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:10.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 11:27:26,417 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:27:26,417 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:27:26,418 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:27:26,418 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:27:30,225 [Worker-43: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/AutomationFrameworkAPI/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1069)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1068)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:243)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:634)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:938)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-05-05 11:27:30,333 [Worker-43: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:845)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:228)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:276)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:329)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:332)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:384)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:405)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </build> must match start tag name <pluginManagement> from line 44 (position: TEXT seen ...</plugins>\r\n    \r\n  </build>... @100:11) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </build> must match start tag name <pluginManagement> from line 44 (position: TEXT seen ...</plugins>\r\n    \r\n  </build>... @100:11) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2090)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1361)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1305)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parsePluginManagement(MavenXpp3Reader.java:3001)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:978)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2281)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 common frames omitted
+2021-05-05 11:27:31,481 [Worker-36: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:845)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:228)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:276)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:329)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:332)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:384)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:405)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </build> must match start tag name <pluginManagement> from line 44 (position: TEXT seen ...</plugins>\r\n    \r\n  </build>... @100:11) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </build> must match start tag name <pluginManagement> from line 44 (position: TEXT seen ...</plugins>\r\n    \r\n  </build>... @100:11) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2090)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1361)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1305)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parsePluginManagement(MavenXpp3Reader.java:3001)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:978)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2281)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 common frames omitted
+2021-05-05 11:27:39,121 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:10.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 11:27:39,431 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:27:39,431 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:27:39,433 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:27:39,433 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:27:40,631 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:27:40,631 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:27:40,632 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:27:40,632 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:27:51,501 [Worker-43: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:11.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 11:27:51,819 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:27:51,819 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:27:51,821 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:27:51,821 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:27:57,965 [Worker-36: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-05 11:27:57,966 [Worker-36: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-05 11:49:24,976 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:49:24,977 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:49:24,977 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:49:24,978 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:49:57,283 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:12.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 11:49:57,577 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:49:57,578 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:49:57,580 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:49:57,581 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:50:01,909 [Worker-46: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-05 11:50:01,909 [Worker-46: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-05 11:52:44,616 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:52:44,616 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:52:44,616 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:52:44,616 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:53:11,566 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:13.0 @ D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-05 11:53:11,892 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:53:11,893 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-05 11:53:11,894 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 11:53:11,894 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-05 11:53:16,603 [Worker-49: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\QualityKioskTraining\AutomationFramework\AutomationFrameworkAPI
+2021-05-05 11:53:16,604 [Worker-49: Launching Executing install in D__QualityKioskTraining_AutomationFramework_AutomationFrameworkAPI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-05-21 09:57:07,900 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-21 09:57:07,918 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\qualitykioskstraining-master\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-21 09:57:07,935 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-21 09:57:07,935 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\qualitykioskstraining-master\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-21 09:57:09,669 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-21 09:57:13,338 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:13.0 @ C:\Users\USER\qualitykioskstraining-master\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-21 09:57:19,132 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-21 09:57:19,136 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\qualitykioskstraining-master\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-21 09:57:19,155 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-21 09:57:19,155 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\qualitykioskstraining-master\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-21 09:57:23,406 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QualityKiosksTraining:AutomationFrameworkAPI:13.0 @ C:\Users\USER\qualitykioskstraining-master\AutomationFramework\AutomationFrameworkAPI\pom.xml.
+2021-05-21 09:57:26,244 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-21 09:57:26,244 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\qualitykioskstraining-master\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-05-21 09:57:26,256 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-21 09:57:26,257 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\qualitykioskstraining-master\AutomationFramework\AutomationFrameworkAPI\src\test\resources
+2021-05-29 10:33:30,438 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-06-01 10:58:31,235 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-06-01 11:09:17,471 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-01 11:09:17,472 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\qualitykioskstraining-master\AutomationFramework\AutomationFrameworkAPI\src\main\resources
+2021-06-01 11:09:17,481 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-01 11:09:17,481 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\qualitykioskstraining-master\AutomationFramework\AutomationFrameworkAPI\src\test\resources
